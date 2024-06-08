@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">
 Frandy Aquino</a></h1>
 <h3 align="center">Software Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
 <a target="_blank" align="center">
