@@ -13,11 +13,6 @@ Frandy Aquino</a></h1>
 - 📫 Como contactarme: **frandyjavieraquino13@gmail.com**
 
 - 📄 Acerca de mi experiencias <a href="#" target="blank">Resume</a>
-
-- 💻 Proyectos en los que he trabajado:
-<ul>
-<li>https://github.com/EurisAquino/Negocio</li>
-</ul>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Encuentrame 🤝 </h3>
 
