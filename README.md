@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img style="border-radius: 10px;" alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5oZGFuazNvZG82OW54eTR2M2Z2eTRteTd4ZGJxaXNvM2xuZjl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RvO40yd02F0citvFUS/giphy.gif" width="300px" height="auto" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5oZGFuazNvZG82OW54eTR2M2Z2eTRteTd4ZGJxaXNvM2xuZjl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RvO40yd02F0citvFUS/giphy.gif" width="250px" height="auto" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -61,8 +61,3 @@
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
