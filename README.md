@@ -1,4 +1,5 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+![1719349978047](https://github.com/user-attachments/assets/4c7334e8-f27b-4651-8b83-d4dea5bbac0c)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
