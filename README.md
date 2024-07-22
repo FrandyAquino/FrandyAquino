@@ -11,7 +11,7 @@
 
 - 🌱 Aprendiendo React.</a>
 
-- 📄 Acerca de mi experiencias <a href="#" target="blank">Resume</a>
+- 📄 Acerca de mi experiencias <a href="#" target="blank">CV</a>
 
 - 💻 Proyectos en los que he trabajado:
 <br/>• https://github.com/EurisAquino/Negocio
