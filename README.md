@@ -15,6 +15,7 @@
 
 - 💻 Proyectos en los que he trabajado:
 <br/>• https://github.com/EurisAquino/Negocio
+<br/>• https://github.com/Innominados/LenguajeSenas_Web
 
 
 
