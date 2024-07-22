@@ -11,8 +11,6 @@
 
 - 🌱 Aprendiendo React.</a>
 
-- 📫 Como contactarme: **frandyjavieraquino13@gmail.com**
-
 - 📄 Acerca de mi experiencias <a href="#" target="blank">Resume</a>
 
 - 💻 Proyectos en los que he trabajado:
