@@ -3,7 +3,7 @@ Frandy Aquino</a></h1>
 <h3 align="center">Software Developer</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFmYWZydWZ3M3FzdGtybnJvd3BudTNoemw4N3o3MTlscmNjYXl1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RvO40yd02F0citvFUS/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc1MzZpNnNuZGFpa2Y3NHBidnNnaGt2ajBzbXNpcDRha2ZjNTN3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oYktCGLYfs6SkgELgf/giphy.gif">
 </a>
 
 - 🤝 En busca de trabajo.
