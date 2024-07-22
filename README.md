@@ -58,7 +58,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contactame
 
 <p align="center">
 <a href="https://www.linkedin.com/in/frandyaquino/"><img src="https://img.shields.io/badge/-Frandy%20Aquino-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
