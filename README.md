@@ -6,17 +6,13 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí
-
-- 🤝 En busca de trabajo.
-
-- 🌱 Aprendiendo React.</a>
-
-- 📄 Acerca de mi experiencias <a href="https://1drv.ms/b/c/708a78e199fde13c/EfnJNuaMu-NGvn9FYoWNkKcB-ptj72MuTCS65DLBhkmIWQ?e=9dVDAx" target="_blank">CV</a>
-
-- 💻 Proyectos en los que he trabajado:
-<br/>• https://github.com/EurisAquino/Negocio
-<br/>• https://github.com/Innominados/LenguajeSenas_Web
-
+- 🚀 **Full Stack Developer** con enfoque en aplicaciones escalables y arquitecturas modernas
+- ☁️ **AWS en progreso:** Preparando certificación Developer Associate para soluciones cloud-native
+- 💼 **Disponible para oportunidades** que involucren tecnologías modernas y desafíos técnicos
+- 🛠️ **Stack principal:** React, Next.js, TypeScript, NestJS + MongoDB
+- 🏗️ **Especialidad:** Desarrollo de aplicaciones web escalables, performantes y mantenibles  
+- 🎯 **Valores:** Código limpio, mejores prácticas, accesibilidad y experiencia de usuario
+- 💻 **Proyecto destacado:** [Lenguaje de Señas Web](https://github.com/Innominados/LenguajeSenas_Web) - Impacto social a través de la tecnología
 
 
 ### 🛠 &nbsp;Habilidades | Herramientas
